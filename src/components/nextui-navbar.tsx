@@ -65,14 +65,14 @@ export default function NextNavbar() {
             }}
           >
             <Link
-              href="https://github.com/Md-Zainulabdin/File-Converter"
+              href="https://github.com/SafwanAyyan/File-Converter"
               target="_blank"
               className="text-white text-sm hidden sm:flex"
             >
               Explore Github
             </Link>
             <Link
-              href="https://github.com/Md-Zainulabdin/File-Converter"
+              href="https://github.com/SafwanAyyan/File-Converter"
               target="_blank"
               className="text-white text-sm sm:hidden"
             >

@@ -7,7 +7,7 @@ export function SiteFooter() {
     <footer className="py-6 px-16 md:py-0">
       <div className="container flex flex-col items-center justify-between gap-4 md:h-24 md:flex-row">
         <p className="text-center text-md leading-loose text-muted-foreground md:text-left">
-          Built with <span className="text-red-600">❤</span> by Zain-ul-Abdin
+          Built with <span className="text-red-600">❤</span> by Safwan Ayyan
         </p>
         <div className="space-x-6 flex items-center">
         <Link
@@ -18,7 +18,7 @@ export function SiteFooter() {
         </Link>
 
         <Link
-          href={"https://www.linkedin.com/in/m-zain-ul-abdin/"}
+          href={"https://www.linkedin.com/in/m-Safwan Ayyan/"}
           target="_blank "
         >
           <FaLinkedin className="w-5 h-5 text-muted-foreground" />

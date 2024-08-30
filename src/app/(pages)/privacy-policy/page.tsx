@@ -114,7 +114,7 @@ const PrivacyPolicyPage = () => {
           <p>
             If you have any questions or concerns about this Privacy Policy or
             the data we collect, please contact us at
-            muhammadzainulabdinansari@gmail.com.
+            Safwanayyan02@gmail.com.
           </p>
         </div>
 
